@@ -1,4 +1,4 @@
-**Authy.gs: Two-Factor Authentication for Google Apps Script**
+#Authy.gs: Two-Factor Authentication for Google Apps Script#
 
 Authy.gs is a Google Apps Script JavaScript library designed to enhance the security of user accounts stored in Google Sheets by implementing robust two-factor authentication (2FA) mechanisms. It integrates seamlessly with Vault.gs for secure storage of user account details and provides features such as auto-expiring 2FA codes and email code delivery.
 
